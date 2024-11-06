@@ -3,9 +3,9 @@ Are you a Kenyan .NET software developer? Apply for our dope training and become
 Join the Orange Nile Community and level up your technical skills and online presence.📈 First year Orange Nile Membership included for free! visit www.orange-nile.nl for more info.
 
 With our training package, you get:
-•	5 weekly initial sessions of 90 minutes, which includes: 
-  1) Preparation training for technical job interviews
-  2)	Better international online visibility of your professionalised resume
+•	5 weekly initial sessions of 90 minutes, leading to the following results: 
+  1) Better prepared for technical job interviews
+  2) Improved international online visibility of your professionalised resume
 
 The five weekly sessions will follow-up with:
 •	Weekly software development sprints
