@@ -1,6 +1,6 @@
 Orange Nile Community Training Program. 
 Are you a Kenyan .NET software developer? Apply for our dope training and become a member of our thriving community. Our motto: “Get a job, get a better job, get a career.” The Orange Nile Community will support you in boosting your national or international career. First year membership included for free! 🚀
-Join the Orange Nile Community and level up your technical skills and online presence.📈 First year Orange Nile Membership included for free! visit www.orange-nile.nl for more info.
+Join the Orange Nile Community and level up your technical skills and online presence.📈 visit www.orange-nile.nl for more info.
 
 With our training package, you get:
 •	5 weekly initial sessions of 90 minutes, leading to the following results: 
